@@ -1,6 +1,6 @@
 # C++ Coursework Portfolio
 ## What is this?
-This repo is designed purely to stage and host my portfolio of C++ projects I completed during my Spring 2024 coursework. It is not a full reflection of my capabilities, just a view into real C++ projects I created
+This repo is designed purely to stage and host my portfolio of C++ projects I completed during my Spring 2024 coursework. It is not a full reflection of my capabilities, just a view into real C++ projects I created. I recommend downloading the PDF as it was developed in LaTeX and some interactive features, such as the table of contents, will be missing if not.
 ## What does the portfolio contain?
 The portfolio includes 
 - 8 C++ projects in order of their completion, with PS0 being a tutorial/getting started project and PS1-PS7 being projects that
